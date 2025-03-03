@@ -11,7 +11,7 @@ This project aims to analyze **global suicide rates from 1985 to 2016** using **
 ### **Tech Stack**
 - **Programming & Libraries:** Python, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
 - **Machine Learning Models:** K-Nearest Neighbors (KNN), Decision Tree, Random Forest, Logistic Regression, Naïve Bayes
-- **Data Source:** [Kaggle - Suicide Rates Overview 1985-2016](https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-2016)
+- **Data Source:** [Kaggle - Suicide Rates Overview 1985-2016](https://www.kaggle.com/code/kralmachine/data-visualization-of-suicide-rates/input)
 
 ---
 
